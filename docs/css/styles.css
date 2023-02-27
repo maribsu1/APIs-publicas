@@ -1,0 +1,28 @@
+#api-list {
+    list-style: none;
+    padding: 0;
+}
+
+.api {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #000000;
+    background-color: #f2f2f3;
+    border-radius: 5px;
+}
+
+.api h3 {
+    margin-top: 0;
+}
+
+.api p {
+    margin: 0;
+}
+
+.api-link {
+    color: blue;
+}
+
+.api-link:hover {
+    text-decoration: underline;
+}
